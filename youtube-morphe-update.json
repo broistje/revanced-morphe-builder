@@ -1,6 +1,6 @@
 {
-  "version": "21.23.492 (patches dev.7.mpp)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/broistje/revanced-morphe-builder/releases/download/2/youtube-morphe-module-v21.23.492-all.zip",
+  "version": "21.23.492 (patches dev.8.mpp)",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/broistje/revanced-morphe-builder/releases/download/3/youtube-morphe-module-v21.23.492-all.zip",
   "changelog": "https://raw.githubusercontent.com/broistje/revanced-morphe-builder/update/build.md"
 }
