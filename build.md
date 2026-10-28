@@ -9,7 +9,7 @@ Install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) 
 Patches: anddea/revanced-patches/patches-4.4.0-dev.3.mpp  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.4.0-dev.3)
 
-Patches: MorpheApp/morphe-patches/patches-1.49.0-dev.8.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.49.0-dev.8)
+Patches: MorpheApp/morphe-patches/patches-1.49.0-dev.10.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.49.0-dev.10)
 
 CLI: MorpheApp/morphe-cli/morphe-desktop-1.20.0-dev.3-all.jar    
